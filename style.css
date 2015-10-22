@@ -8,11 +8,20 @@
   height: 100px;
 }
 
+.post h2 {
+  padding-top: 6px; // To line up with thumbnail
+}
+
+.post span {
+  margin-right: 30px;
+}
+
 .thumbnail {
   width: 80px;
   height: 80px;
+  margin: 10px;
+  margin-right: 20px;
   background: tomato;
-  /*display: inline-block;*/
   float: left;
 }
 
