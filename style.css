@@ -8,6 +8,10 @@ body {
   margin: 0 auto;
 }
 
+.title {
+  color: #444;
+}
+
 .post {
   background: #1EA5A5;
   height: 100px;
